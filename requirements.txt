@@ -21,7 +21,6 @@ aiofiles
 aiohttp
 dnspython
 psutil
-pyrogram
 tgcrypto
 aiohttp
 python-dotenv
