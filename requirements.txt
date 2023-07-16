@@ -18,7 +18,6 @@ aiofiles
 aiohttp
 dnspython
 psutil
-tgcrypto
 aiohttp
 python-dotenv
 motor
