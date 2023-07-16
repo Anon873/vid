@@ -1,1 +1,15 @@
-
+class Config(object):
+  APP_ID = "8206404"
+  API_HASH = "e935d9b56e3fd2c05c743093efb761c9"
+  TG_BOT_TOKEN = "5951942864:AAHHsn9GLXHw1LoLHaHr98fG_AklMKgpKU8"
+  AUTH_USERS = [858588280]
+  CHANNEL1_ID = "-1001659284209"                            
+  CHANNEL1_NAME = "Andy"
+  CHANNEL2_ID = ""
+  CHANNEL2_NAME = ""
+  CHANNEL3_ID = ""
+  CHANNEL3_NAME = ""
+  CHANNEL4_ID = ""
+  CHANNEL4_NAME = ""
+  CHANNEL5_ID = ""
+  CHANNEL5_NAME = ""
